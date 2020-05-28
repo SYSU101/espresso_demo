@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Espresso-kudasai</string>
+    <string name="button_hint">Let\'s rock!</string>
+    <string name="greet">Hello %1$s!</string>
+</resources>
